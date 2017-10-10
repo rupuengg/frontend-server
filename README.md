@@ -108,3 +108,13 @@ And Place the html in **index.html** file
   </body>
 </html>
 ```
+
+## Step - 7
+
+Run the Server
+
+> npm start
+
+Open the link in broswer [http://localhost:3030/](http://localhost:3030/).
+
+You can also change port in **webpack.config.js**
